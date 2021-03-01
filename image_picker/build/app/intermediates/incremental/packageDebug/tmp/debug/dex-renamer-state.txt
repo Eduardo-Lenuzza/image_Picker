@@ -1,0 +1,4 @@
+#Mon Mar 01 15:26:32 BRT 2021
+base.0=/home/elopes/Documents/kopp/Image_picker/imagepickertutorial/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
